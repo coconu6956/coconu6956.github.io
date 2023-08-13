@@ -12,9 +12,9 @@ module.exports = {
     title: `ChaeEun Blog`,
     author: {
       name: `Chaeeun`,
-      summary: `행복하세요 ^^`,
+      summary: `행복하세요 ☘️`,
     },
-    description: `행복하세요 ^^`,
+    description: `행복하세요 ☘️`,
     siteUrl: `https://coconu6956.github.io/`,
     social: {
       github: `https://github.com/coconu6956`,
