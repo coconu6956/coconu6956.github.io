@@ -12,11 +12,12 @@ module.exports = {
     title: `ChaeEun Blog`,
     author: {
       name: `Chaeeun`,
-      summary: `어디서 본 거 기록해 보려 합니다.`,
+      summary: `행복하세요 ^^`,
     },
-    description: `어디서 본 거 기록해 보려 합니다.`,
+    description: `행복하세요 ^^`,
     siteUrl: `https://coconu6956.github.io/`,
     social: {
+      github: `https://github.com/coconu6956`,
     },
   },
   plugins: [
