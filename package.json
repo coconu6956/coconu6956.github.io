@@ -8,6 +8,7 @@
     "url": "https://github.com/coconu6956/coconu6956.github.io/issues"
   },
   "dependencies": {
+    "@deckdeckgo/highlight-code": "^3.6.0",
     "@fontsource-variable/montserrat": "^5.0.4",
     "@fontsource/merriweather": "^5.0.3",
     "gatsby": "^5.11.0",
@@ -15,6 +16,8 @@
     "gatsby-plugin-image": "^3.11.0",
     "gatsby-plugin-manifest": "^5.11.0",
     "gatsby-plugin-sharp": "^5.11.0",
+    "gatsby-remark-code-buttons": "^2.0.7",
+    "gatsby-remark-highlight-code": "^3.3.0",
     "gatsby-remark-images": "^7.11.0",
     "gatsby-remark-prismjs": "^7.11.0",
     "gatsby-remark-responsive-iframe": "^6.11.1",
@@ -26,6 +29,7 @@
     "react-dom": "^18.1.0"
   },
   "devDependencies": {
+    "gatsby-remark-code-titles": "^1.1.0",
     "gh-pages": "^6.0.0",
     "prettier": "^2.8.8"
   },
