@@ -41,9 +41,32 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: 'gatsby-remark-code-titles',
+            options: {
+              className: 'gatsby-remark-code-title',
+            }
+          }, // IMPORTANT: this must be ahead of other plugins that use code blocks
+          {
+            resolve: 'gatsby-remark-code-buttons',
+            options: {
+              svgIcon: ` `,
+              buttonText: `COPY`,
+              toasterText: '복사되었습니다 👏',
+              // Optional toaster duration. Defaults to 3500.
+              toasterDuration: 5000
+            }
+          },
+          {
+            resolve: `gatsby-remark-highlight-code`,
+            options: {
+              lineNumbers: true,
+            },
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,
+              loading: `lazy`,
             },
           },
           {
@@ -103,36 +126,6 @@ module.exports = {
             }`,
             output: "/rss.xml",
             title: "Gatsby Starter Blog RSS Feed",
-          },
-        ],
-      },
-    },
-    `gatsby-transformer-remark`,
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: 'gatsby-remark-code-titles',
-            options: {
-              className: 'gatsby-remark-code-title',
-            }
-          }, // IMPORTANT: this must be ahead of other plugins that use code blocks
-          {
-            resolve: 'gatsby-remark-code-buttons',
-            options: {
-              svgIcon: ` `,
-              buttonText: `COPY`,
-              toasterText: '복사되었습니다 👏',
-              // Optional toaster duration. Defaults to 3500.
-              toasterDuration: 5000
-            }
-          },
-          {
-            resolve: `gatsby-remark-highlight-code`,
-            options: {
-              lineNumbers: true,
-            },
           },
         ],
       },
