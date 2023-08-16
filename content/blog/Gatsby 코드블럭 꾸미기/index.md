@@ -91,7 +91,7 @@ plugins: [
 ]
 ```
 
-![code-button options](image-3.png)
+![code-button options](./image-3.png)
 다양한 옵션들이 있습니다.
 
 ```javascript:title=gatsby-config.js

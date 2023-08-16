@@ -59,7 +59,7 @@ npm install gh-pages --save-dev
 ```
 
 ### package.json 추가하기
-![Alt text](deploy.png)
+![Alt text](./deploy.png)
 
 ```json
 {
