@@ -1,43 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[행복하세요 ☘️]]></description><link>https://coconu6956.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 15 Aug 2023 17:25:15 GMT</lastBuildDate><item><title><![CDATA[Gatsby 블로그 파비콘 변경하기]]></title><description><![CDATA[파비콘이미지 이제 블로그를 만들었는데 기본 파비콘이 맘에 들지 않습니다. gatsby.config.js 변경하기 Alt text icon부분을 수정해주면 됩니다. Alt text 저는 static 폴더 안에 favicon.png…]]></description><link>https://coconu6956.github.io/Gatsby 블로그 파비콘 변경하기/</link><guid isPermaLink="false">https://coconu6956.github.io/Gatsby 블로그 파비콘 변경하기/</guid><pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;image.png&quot; alt=&quot;파비콘이미지&quot;&gt;&lt;/p&gt;
-&lt;p&gt;이제 블로그를 만들었는데 기본 파비콘이 맘에 들지 않습니다.&lt;/p&gt;
-&lt;h2&gt;gatsby.config.js 변경하기&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;image-1.png&quot; alt=&quot;Alt text&quot;&gt;&lt;/p&gt;
-&lt;p&gt;icon부분을 수정해주면 됩니다.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;image-2.png&quot; alt=&quot;Alt text&quot;&gt;&lt;/p&gt;
-&lt;p&gt;저는 static 폴더 안에 favicon.png이란 파일을 추가하고 변경했습니다.
-하지만 수정을 해도 아직 변경이 안되었습니다!&lt;/p&gt;
-&lt;div
-              class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;2564910096503081500&quot;
-              data-toaster-class=&quot;gatsby-code-button-toaster&quot;
-              data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
-              data-toaster-text=&quot;복사되었습니다 👏&quot;
-              data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm run build`, `2564910096503081500`)&quot;
-            &gt;
-              &lt;div
-                class=&quot;gatsby-code-button&quot;
-                data-tooltip=&quot;&quot;
-              &gt;
-                COPY 
-              &lt;/div&gt;
-            &lt;/div&gt;
-&lt;deckgo-highlight-code language=&quot;shell&quot; line-numbers=&quot;true&quot;  &gt;
-          &lt;code slot=&quot;code&quot;&gt;npm run build&lt;/code&gt;
-        &lt;/deckgo-highlight-code&gt;
-&lt;p&gt;public/icon 폴더를 보면 파일이 변경되었습니다!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby 코드블럭 꾸미기]]></title><description><![CDATA[gatsby  plugin을 이용해서 코드블럭을 이쁘게 바꿔보자. gatsby-remark-highlight-code사용했습니다.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[행복하세요 ☘️]]></description><link>https://coconu6956.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 16 Aug 2023 09:52:14 GMT</lastBuildDate><item><title><![CDATA[Gatsby 코드블럭 꾸미기]]></title><description><![CDATA[gatsby  plugin을 이용해서 코드블럭을 이쁘게 바꿔보자. gatsby-remark-highlight-code사용했습니다.
 gatsby plugin 사이트에서 다른 syntax highlight…]]></description><link>https://coconu6956.github.io/Gatsby 코드블럭 꾸미기/</link><guid isPermaLink="false">https://coconu6956.github.io/Gatsby 코드블럭 꾸미기/</guid><pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;gatsby  plugin을 이용해서 코드블럭을 이쁘게 바꿔보자.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.gatsbyjs.com/plugins/gatsby-remark-highlight-code/&quot;&gt;gatsby-remark-highlight-code&lt;/a&gt;사용했습니다.
 gatsby plugin 사이트에서 다른 syntax highlight 플러그인 검색해 볼 수 있습니다!&lt;/p&gt;
 &lt;h2&gt;설치하기&lt;/h2&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;15382605410642958000&quot;
+              data-toaster-id=&quot;11812452184469800000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm install --save gatsby-transformer-remark gatsby-remark-highlight-code @deckdeckgo/highlight-code`, `15382605410642958000`)&quot;
+              onClick=&quot;copyToClipboard(`npm install --save gatsby-transformer-remark gatsby-remark-highlight-code @deckdeckgo/highlight-code`, `11812452184469800000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -53,7 +26,7 @@ gatsby plugin 사이트에서 다른 syntax highlight 플러그인 검색해 볼
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;gatsby-config.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;54446493762565870000&quot;
+              data-toaster-id=&quot;86021670838125770000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -70,7 +43,7 @@ plugins: [
       ],
     },
   },
-];`, `54446493762565870000`)&quot;
+];`, `86021670838125770000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -98,13 +71,13 @@ plugins: [
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;index.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;87581733437934530000&quot;
+              data-toaster-id=&quot;91293539653272030000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
               onClick=&quot;copyToClipboard(`import { defineCustomElements as deckDeckGoHighlightElement } from &amp;quot;@deckdeckgo/highlight-code/dist/loader&amp;quot;;
-deckDeckGoHighlightElement();`, `87581733437934530000`)&quot;
+deckDeckGoHighlightElement();`, `91293539653272030000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -153,7 +126,7 @@ deckDeckGoHighlightElement();&lt;/code&gt;
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;gatsby-config.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;87780947048980630000&quot;
+              data-toaster-id=&quot;35202293825430740000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -173,7 +146,7 @@ plugins: [
       ],
     },
   },
-];`, `87780947048980630000`)&quot;
+];`, `35202293825430740000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -205,12 +178,12 @@ plugins: [
 &lt;h3&gt;설치하기&lt;/h3&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;2467203459929101300&quot;
+              data-toaster-id=&quot;26002883223083483000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm install gatsby-remark-code-buttons --save-dev`, `2467203459929101300`)&quot;
+              onClick=&quot;copyToClipboard(`npm install gatsby-remark-code-buttons --save-dev`, `26002883223083483000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -226,7 +199,7 @@ plugins: [
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;gatsby-config.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;72533528473120735000&quot;
+              data-toaster-id=&quot;68970437726130900000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -238,7 +211,7 @@ plugins: [
       plugins: [&apos;gatsby-remark-code-buttons&apos;]
     }
   }
-]`, `72533528473120735000`)&quot;
+]`, `68970437726130900000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -257,12 +230,12 @@ plugins: [
   }
 ]&lt;/code&gt;
         &lt;/deckgo-highlight-code&gt;
-&lt;p&gt;&lt;img src=&quot;image-3.png&quot; alt=&quot;code-button options&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;./image-3.png&quot; alt=&quot;code-button options&quot;&gt;
 다양한 옵션들이 있습니다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;gatsby-config.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;91470328990337020000&quot;
+              data-toaster-id=&quot;87109901616606860000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -280,7 +253,7 @@ plugins: [
               // Optional toaster duration. Defaults to 3500.
               toasterDuration: 5000
             }
-          },`, `91470328990337020000`)&quot;
+          },`, `87109901616606860000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -311,7 +284,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;style.css&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;32112956126327607000&quot;
+              data-toaster-id=&quot;81860634591469880000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -331,7 +304,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
   color: #222;
   font-weight: 600;
   box-shadow: rgba(79, 255, 4, 0.45) 0 4px 15px;
-}`, `32112956126327607000`)&quot;
+}`, `81860634591469880000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -363,12 +336,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;h3&gt;설치하기&lt;/h3&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;46984681503783450000&quot;
+              data-toaster-id=&quot;72335037204366295000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm install gatsby-remark-code-titles --save-dev`, `46984681503783450000`)&quot;
+              onClick=&quot;copyToClipboard(`npm install gatsby-remark-code-titles --save-dev`, `72335037204366295000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -384,7 +357,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;gatsby-config.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;56724044460284390000&quot;
+              data-toaster-id=&quot;63139221497031836000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -403,7 +376,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
       ]
     }
   }
-]`, `56724044460284390000`)&quot;
+]`, `63139221497031836000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -433,7 +406,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;style.css&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;27616771299622076000&quot;
+              data-toaster-id=&quot;83811399992777800000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -452,7 +425,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
   text-align: center;
   border-radius: 10rem;
   transform: translate(-50%, 1.6rem);
-}`, `27616771299622076000`)&quot;
+}`, `83811399992777800000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -477,7 +450,34 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
   border-radius: 10rem;
   transform: translate(-50%, 1.6rem);
 }&lt;/code&gt;
-        &lt;/deckgo-highlight-code&gt;</content:encoded></item><item><title><![CDATA[Gatsby 블로그 만들기]]></title><description><![CDATA[드디어 첫 블로그를 생성하게 되었습니다!
+        &lt;/deckgo-highlight-code&gt;</content:encoded></item><item><title><![CDATA[Gatsby 블로그 파비콘 변경하기]]></title><description><![CDATA[파비콘이미지 이제 블로그를 만들었는데 기본 파비콘이 맘에 들지 않습니다. gatsby.config.js 변경하기 Alt text icon부분을 수정해주면 됩니다. Alt text 저는 static 폴더 안에 favicon.png…]]></description><link>https://coconu6956.github.io/Gatsby 블로그 파비콘 변경하기/</link><guid isPermaLink="false">https://coconu6956.github.io/Gatsby 블로그 파비콘 변경하기/</guid><pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;./image.png&quot; alt=&quot;파비콘이미지&quot;&gt;&lt;/p&gt;
+&lt;p&gt;이제 블로그를 만들었는데 기본 파비콘이 맘에 들지 않습니다.&lt;/p&gt;
+&lt;h2&gt;gatsby.config.js 변경하기&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;./image-1.png&quot; alt=&quot;Alt text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;icon부분을 수정해주면 됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./image-2.png&quot; alt=&quot;Alt text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;저는 static 폴더 안에 favicon.png이란 파일을 추가하고 변경했습니다.
+하지만 수정을 해도 아직 변경이 안되었습니다!&lt;/p&gt;
+&lt;div
+              class=&quot;gatsby-code-button-container&quot;
+              data-toaster-id=&quot;376126997815440260&quot;
+              data-toaster-class=&quot;gatsby-code-button-toaster&quot;
+              data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
+              data-toaster-text=&quot;복사되었습니다 👏&quot;
+              data-toaster-duration=&quot;5000&quot;
+              onClick=&quot;copyToClipboard(`npm run build`, `376126997815440260`)&quot;
+            &gt;
+              &lt;div
+                class=&quot;gatsby-code-button&quot;
+                data-tooltip=&quot;&quot;
+              &gt;
+                COPY 
+              &lt;/div&gt;
+            &lt;/div&gt;
+&lt;deckgo-highlight-code language=&quot;shell&quot; line-numbers=&quot;true&quot;  &gt;
+          &lt;code slot=&quot;code&quot;&gt;npm run build&lt;/code&gt;
+        &lt;/deckgo-highlight-code&gt;
+&lt;p&gt;public/icon 폴더를 보면 파일이 변경되었습니다!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby 블로그 만들기]]></title><description><![CDATA[드디어 첫 블로그를 생성하게 되었습니다!
 작업하거나 배운 것들을 기록해야겠다는 필요성을 자꾸 느끼게 되었습니다.
 나만의 블로그를 만들어보자는 생각에 Gatsby로 이용해서 만들게 되었습니다! Gatsby 설치 Gatsby를 사용하기 위해 Gatsby…]]></description><link>https://coconu6956.github.io/Gatsby 블로그 만들기/</link><guid isPermaLink="false">https://coconu6956.github.io/Gatsby 블로그 만들기/</guid><pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;드디어 첫 블로그를 생성하게 되었습니다!
 작업하거나 배운 것들을 기록해야겠다는 필요성을 자꾸 느끼게 되었습니다.
@@ -486,12 +486,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;p&gt;Gatsby를 사용하기 위해 Gatsby CLI 설치합니다.&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;51697642887126350000&quot;
+              data-toaster-id=&quot;27149076242946224000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm install -g gatsby-cli`, `51697642887126350000`)&quot;
+              onClick=&quot;copyToClipboard(`npm install -g gatsby-cli`, `27149076242946224000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -506,12 +506,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;p&gt;gatsby 버전을 확인합니다.&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;40726391597249670000&quot;
+              data-toaster-id=&quot;57203301594900100000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`gatsby --version`, `40726391597249670000`)&quot;
+              onClick=&quot;copyToClipboard(`gatsby --version`, `57203301594900100000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -530,12 +530,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;a href=&quot;https://www.gatsbyjs.com/starters/&quot;&gt;스타터테마모음&lt;/a&gt;&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;78197647827080450000&quot;
+              data-toaster-id=&quot;26555032471488470000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`gatsby new &amp;quot;프로젝트명&amp;quot; &amp;quot;스타터 테마 주소&amp;quot;`, `78197647827080450000`)&quot;
+              onClick=&quot;copyToClipboard(`gatsby new &amp;quot;프로젝트명&amp;quot; &amp;quot;스타터 테마 주소&amp;quot;`, `26555032471488470000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -549,12 +549,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
         &lt;/deckgo-highlight-code&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;85736566552428480000&quot;
+              data-toaster-id=&quot;97100355154545670000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`gatsby new gatsby-starter-blog https://github.com/gatsbyjs/gatsby-starter-blog`, `85736566552428480000`)&quot;
+              onClick=&quot;copyToClipboard(`gatsby new gatsby-starter-blog https://github.com/gatsbyjs/gatsby-starter-blog`, `97100355154545670000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -568,12 +568,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
         &lt;/deckgo-highlight-code&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;29570202197809836000&quot;
+              data-toaster-id=&quot;93897465385147700000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`cd gatsby-starter-blog`, `29570202197809836000`)&quot;
+              onClick=&quot;copyToClipboard(`cd gatsby-starter-blog`, `93897465385147700000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -587,12 +587,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
         &lt;/deckgo-highlight-code&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;12173123292122012000&quot;
+              data-toaster-id=&quot;40714959836967250000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`yarn develop or gatsby develop`, `12173123292122012000`)&quot;
+              onClick=&quot;copyToClipboard(`yarn develop or gatsby develop`, `40714959836967250000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -611,12 +611,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;h3&gt;gh-pages 설치&lt;/h3&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;34719708342901100000&quot;
+              data-toaster-id=&quot;90373498155020530000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm install gh-pages --save-dev`, `34719708342901100000`)&quot;
+              onClick=&quot;copyToClipboard(`npm install gh-pages --save-dev`, `90373498155020530000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -629,10 +629,10 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
           &lt;code slot=&quot;code&quot;&gt;npm install gh-pages --save-dev&lt;/code&gt;
         &lt;/deckgo-highlight-code&gt;
 &lt;h3&gt;package.json 추가하기&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;deploy.png&quot; alt=&quot;Alt text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./deploy.png&quot; alt=&quot;Alt text&quot;&gt;&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;85008831244965350000&quot;
+              data-toaster-id=&quot;14653797954472393000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -642,7 +642,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
   &amp;quot;scripts&amp;quot;: {
     &amp;quot;deploy&amp;quot;: &amp;quot;gatsby build &amp;&amp; gh-pages -d public -b main&amp;quot;,
   }  
-}`, `85008831244965350000`)&quot;
+}`, `14653797954472393000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -665,7 +665,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;strong&gt;Create repository&lt;/strong&gt;를 클릭합니다.&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;84361592984712820000&quot;
+              data-toaster-id=&quot;46180924255520230000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -675,7 +675,7 @@ git branch -M main
 git add .
 git commit -m &amp;quot;first commit&amp;quot;
 git remote add origin https://github.com/[아이디]/[아이디].github.io.git
-git push -u origin main`, `84361592984712820000`)&quot;
+git push -u origin main`, `46180924255520230000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -696,12 +696,12 @@ git push -u origin main&lt;/code&gt;
 &lt;h3&gt;배포하기&lt;/h3&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;32239167246746202000&quot;
+              data-toaster-id=&quot;50362990207105690000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm run deploy`, `32239167246746202000`)&quot;
+              onClick=&quot;copyToClipboard(`npm run deploy`, `50362990207105690000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -719,7 +719,7 @@ git push -u origin main&lt;/code&gt;
 dev라는 브랜치를 만들어서 소스파일을 올려줍니다!&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;68560387705755165000&quot;
+              data-toaster-id=&quot;31979199081498268000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -727,7 +727,7 @@ dev라는 브랜치를 만들어서 소스파일을 올려줍니다!&lt;/p&gt;
               onClick=&quot;copyToClipboard(`git branch dev // dev 브랜치 생성
 git checkout dev
 ...
-git push -u origin dev`, `68560387705755165000`)&quot;
+git push -u origin dev`, `31979199081498268000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
