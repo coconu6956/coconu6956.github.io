@@ -1,16 +1,428 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[행복하세요 ☘️]]></description><link>https://coconu6956.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 16 Aug 2023 10:13:39 GMT</lastBuildDate><item><title><![CDATA[Gatsby 코드블럭 꾸미기]]></title><description><![CDATA[gatsby  plugin을 이용해서 코드블럭을 이쁘게 바꿔보자. gatsby-remark-highlight-code사용했습니다.
-gatsby plugin 사이트에서 다른 syntax highlight…]]></description><link>https://coconu6956.github.io/Gatsby 코드블럭 꾸미기/</link><guid isPermaLink="false">https://coconu6956.github.io/Gatsby 코드블럭 꾸미기/</guid><pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;gatsby  plugin을 이용해서 코드블럭을 이쁘게 바꿔보자.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[행복하세요 ☘️]]></description><link>https://coconu6956.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 17 Aug 2023 04:56:07 GMT</lastBuildDate><item><title><![CDATA[CSS 셀렉터 비주얼 가이드]]></title><description><![CDATA[https://fffuel.co/css-selectors/ 오오!!! CSS…]]></description><link>https://coconu6956.github.io/CSS-Selectors-VisualGuide/</link><guid isPermaLink="false">https://coconu6956.github.io/CSS-Selectors-VisualGuide/</guid><pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1118be5f2041b539c85c988089ad73af/c2ebb/image.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.69620253164557%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB8UlEQVR42oWR60/TUBiH+3/7DcOCoNzBD2CiBj9KQKPgSDQSjdEhIxqku7Ct7dZ26/3K2gmP6VkyNcx4kic9bc958r6/V9pa3GNzZp/NmZdsL+3xYG6D+dk17s+ts1BaY2nhIevL22ysPGJ1cYv50hr3ZlfFmT8p3V1i9s4yUleOOCkbVA511B8hxUrCnMAZEvs5afST2M+Ig5zQzciG10xbNzdwPQKpceZw8PiCgycytVObOMroti3kbxq17xqXskHjXOe8qoi92fPxnRTfnY40UFPeP2/xYb+NqSSk8Qiz66M0LdSWPUFpDlAvLfHP0Dw8JyUKsr/xM6RG1eXza5UvbzQaVYckGtFTXJoXBi3ZpFUzadf6tOt9Li+K9/HeMiPiML8llepfHY532xzvtpBPbNJkhKGNK9Q6DlrbodtxGOjhGKN4Bvh2ShRmt4W1ik15p87h0xpyxRJCXfXoNAeT9gqKb0XlhdzUxjlOFfaaEZ9eKXx80aHbiIQw8IYE7pXAtRKcfozdj3HtIvgrkdW0doWweeaK/CrlLo0zlzjKxQVxIMzw7HTSrmclUyW/hzJEqr7TOXpW52inzulbfSIsKhBEuZh8Eo/+IysKyJHs3pVot2CgpUIQuEP6eoCheiJHXfHEoEJ/+E9h4Gf4g5Bfxg8hAY2WWRwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;CSS Selectors: A Visual Guide&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1118be5f2041b539c85c988089ad73af/f058b/image.png&quot;
+        srcset=&quot;/static/1118be5f2041b539c85c988089ad73af/c26ae/image.png 158w,
+/static/1118be5f2041b539c85c988089ad73af/6bdcf/image.png 315w,
+/static/1118be5f2041b539c85c988089ad73af/f058b/image.png 630w,
+/static/1118be5f2041b539c85c988089ad73af/40601/image.png 945w,
+/static/1118be5f2041b539c85c988089ad73af/78612/image.png 1260w,
+/static/1118be5f2041b539c85c988089ad73af/c2ebb/image.png 3416w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fffuel.co/css-selectors/&quot;&gt;https://fffuel.co/css-selectors/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;오오!!! CSS 셀렉터를 비주얼로 알려주는 사이트를 알게 되었습니다.&lt;/p&gt;
+&lt;p&gt;선택된 모습이 옆에 나와서 알기 쉽게 되었는데요.
+그 중 새로 알게된 셀렉터도 있습니다.&lt;/p&gt;
+&lt;p&gt;자주 사용하는 것만 사용하다보니...&lt;/p&gt;
+&lt;h2&gt;[attr^=val]&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;val&lt;/strong&gt; 시작하는 값을 가진 지정된 속성이 있는 요소를 선택합니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/47e991a711b7af0665844d7b338be366/f4fb1/image-4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.75949367088608%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAACDklEQVR42k1SyW7bUAz0//9At2MLNKfeC/TYWwu0RRxbsiXH1vpk6a3aZTcTkPKSw4DiNhxSb+HMAFk0kMcWquxQihp5rJEeFIrUosgsRGrYsp9azlfc0yCLNPdY3aO2IxbOjMhjwyjzBqEnsPoTwX9MsPobw/uX4NkvsH3K8HSJb5YZlr/32HkCj7/2XEMDGjdhQcyVqFHmM6qLWgJ9M0QDWcyxqyVVlCMRVg2wepgVGtUjjzTyyDBEbFltFilem7FXvGaeGGR0DspFavYjfVuXCWs7QWuHUlXQ1rK1tkFbn9A1J7RuAtU0dsRoTzPq8wx3Zr/XE9xVYW0mqMoi9Q7I1wmyIEYYHOCvd3gOUxjVcjFt8m1M8P4U4qPb4oPe4FMT4N05xI9eoNUj3JVQSovyWEJWGrIyMKrjNegF0FQipBt9H2J8GQM86A2+lj4e3BafpwA/OyKc7oRKWqT+AbmXQIQZooNAuI2xXoUQmQS9BCL9Xx6AwkO3X8H4SwzRGjh6OFUpnKHTDHfCqqzYaulg9KyQlF4VEnpjMOoKLhcwSY72eMSkS3TG8dDbDWnNxNsh92MUO4EkKrALYgSbCNE+42fh9IiT7fFie7jEQO4V2qLGi+sx2uFOSB/cIC9Q8w/QsoWqWhjZ8f0sHd0Mt7s2biaYYyMPvDybeyEnrk00kf23+QsuJ6BBb+NE+AoJPYa/5Iql/AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/47e991a711b7af0665844d7b338be366/f058b/image-4.png&quot;
+        srcset=&quot;/static/47e991a711b7af0665844d7b338be366/c26ae/image-4.png 158w,
+/static/47e991a711b7af0665844d7b338be366/6bdcf/image-4.png 315w,
+/static/47e991a711b7af0665844d7b338be366/f058b/image-4.png 630w,
+/static/47e991a711b7af0665844d7b338be366/40601/image-4.png 945w,
+/static/47e991a711b7af0665844d7b338be366/78612/image-4.png 1260w,
+/static/47e991a711b7af0665844d7b338be366/f4fb1/image-4.png 1766w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;[attr$=val]&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;val&lt;/strong&gt; 끝나는 값을 가진 지정된 속성이 있는 요소를 선택합니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8d5332e8c3e92f5fe2edd484363cc4e1/8454b/image-5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.86075949367089%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAB/UlEQVR42nWT227TQBCG+zpccoe4gdcFgUA8QMsVEq1ApFXVoERJHK/Pdvbk+JA4/dCuk7YqcPHZv2flf3dmds6M6pFVi6watOwwqvNabVqvHfqotWxRVeO11f24rnuvT5y5H9fzErGsyGPL3STk+nLJ5HLJ7c+A6STk97Xg7lfI7Y+AyfcF04lgdhtzc7Xk5mpFFmlqs8MdzhsWSU2Z1pRZ7U2dLhJLFhvyxFKkLm58rEgtcSBJhSKLjEeWY3b+hFVRI1YV8VoSBxuSUHmdCEnk4xu/7gwcSSh9NuGi9MaZMNR295iyr4P8G/2Ex1jjMbrFmg6tjt+yfajrmZE91uyo7Z7ajGztnsYOvi4OvXHF32EaqDtI0oE43mO2YDswdvAbPpwwSSPEekUqYqIoII4TFsGMMFqT5gllodCmYdF+Y95dMNXn3Klz5u1XZt0FpU2xco/V3WhYJZJslpDPM9IwZ7kQzGcrglWE3BhsdSAzc74Mr/l0/5IP6g3vq7d83r/i4/0Lps07GglGNy7lzqe13Q4j9UBTH2i3B5p6wOpTyj15myFswFqOhDogbSOUdXU8NUW6i7xFVvXxfdIjRrWjodqhG8jLASE6hGhJ0t7HjNk/1tDd/iJT/8WoZpwK3+nW16k2/QNuQ3OcMG/oHqfu/gv7bLTcNDzl+fofauaHGIa6Y60AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8d5332e8c3e92f5fe2edd484363cc4e1/f058b/image-5.png&quot;
+        srcset=&quot;/static/8d5332e8c3e92f5fe2edd484363cc4e1/c26ae/image-5.png 158w,
+/static/8d5332e8c3e92f5fe2edd484363cc4e1/6bdcf/image-5.png 315w,
+/static/8d5332e8c3e92f5fe2edd484363cc4e1/f058b/image-5.png 630w,
+/static/8d5332e8c3e92f5fe2edd484363cc4e1/40601/image-5.png 945w,
+/static/8d5332e8c3e92f5fe2edd484363cc4e1/78612/image-5.png 1260w,
+/static/8d5332e8c3e92f5fe2edd484363cc4e1/8454b/image-5.png 1798w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;:valid&lt;/h2&gt;
+&lt;p&gt;:valid 가상 클래스는 속성(예: pattern , type 등)에 의해 지정된 요구 사항과 일치하는 콘텐츠가 있는 입력 요소를 대상으로 하는 데 사용됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0976217a7260d61e9a97462d6db464da/49b61/image-2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.75949367088608%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAB7UlEQVR42nVT15KjMBD0///dbTiMTTIWilYk44e+ksC7W1e1D10aaVD39DA69X7FC0PYMI9PjMMTY//EFON+wzQccVzjecwPG4b+++4Lpz5skDRAdB7sbpG/EeTvBLdCocwY7tUjrZfPDmXOUZ05zm8EZcbBicXgNwT3k9CvePABWo6gN4frB0VzVSC1QZFxdI1Bc5WozgJt+UhC9UUmQto6BLvCmwXOLIn4FNySKmwKBdpaPHgPxQIE9ek8Vp32hwNOfMqJzoHdHbqbAWk06N0i2GUnjKrFX4bmKlBfBMozw62UqHOe7LalQv6nQ/HBUWUSVS4TgdUTjBoT7GNC5Dr1bi+5dxt6uyGYFcHGeN33bkt5b+YEp2c4Myd7O5av+OjhBq0dKL+DcgImGZggUEqB8g5CPODtsl+0Kwb3TEKS9PB6SXEStEcPI6vXE+hniy5rcSsJ8nOJc1Ygz0pc8waCueTA2QnMKVArUDOCzgjIUcP4Pol9EUYLurHQpYYlHpRoVAUB70yax6RuVzg3opYEBbuhYC0qcQcJDDoSmvXooV9h9QjnZjg/w7nY3Bm9jzbmPWcm+FhB6usxc25HOMTCT8taBUhuoLiFEhbywCu2etgvfxEs30SvH2OX9M1pn/ANQ3j+ipj//4n9hn8q2IsCaF3idQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0976217a7260d61e9a97462d6db464da/f058b/image-2.png&quot;
+        srcset=&quot;/static/0976217a7260d61e9a97462d6db464da/c26ae/image-2.png 158w,
+/static/0976217a7260d61e9a97462d6db464da/6bdcf/image-2.png 315w,
+/static/0976217a7260d61e9a97462d6db464da/f058b/image-2.png 630w,
+/static/0976217a7260d61e9a97462d6db464da/40601/image-2.png 945w,
+/static/0976217a7260d61e9a97462d6db464da/78612/image-2.png 1260w,
+/static/0976217a7260d61e9a97462d6db464da/49b61/image-2.png 1756w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;:optional&lt;/h2&gt;
+&lt;p&gt;:optional 가상 클래스는 필수 속성 이 없는 입력 요소를 대상.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/afc6fedba7cade92aae71e0795686beb/a9577/image-3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.9493670886076%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAACKElEQVR42n1S2XLbMAz0//9Y22maJrGrWLUdx9ZBHRRvyZKSyXYA+dA0nT7skATJxWKBhTcDmqpFXXjo5sT7Sng+XyBLD1W3aKqAMreohDvfOZSZ5dXbgbFwZoBIDPKDRl0ErH4cEN0f8PyYYHV3wDYSiH4esX5KsVsXfL9+SPDr/oh4meHp+x6/VxmCH0HiFlb3N1XCQxYBTdlCMsKkXnhUuTurDfyGIBKLMvesUssO3g1YUBmUYXn3ivVTgpe4wG4tEC9TbKMc22eB40uNIjUM+iwSzVXt45oryw4KSrYIjkvuoaqWM8xBnqm6YzjdI7gRwY68tp7whi68MQnFZh7218OEnr2Yx6zqQdbQSom4IWd7prsTJ70RmhHBnBXYERSbgz5N7wbuNJWeHzV3/JJwRjhANhpSK9RKQjaSL7rwzqDSSB1/cD1OfY9hGBkf+MA4vMM0J7hzVQtvR9SiQbraIdsl2MQbbOJXbOMDnqMdXvcCRp1YHROzRRPIP4q7a5wI3QidOeQ/jki/7pFGGR4fInz7co/NcgOxF0iPNRtPhER+GS1q2CXJlZDYTdPBqg6m9LDU5aaFrB1C00GXDlVhr0qUDDxG6V6izPTNYz0j5AzUUTfv7niOjewPQTceSmsobWCsRde1cNaz6quHRHaZrzn4gbmNDe2NIvUBSnqG0YFjdu6hMydUpf4Eo1vuKsGd58zp4Z+4TsHU5Snz3/g08Ob/uJT8BxkPcVQ4BsMfAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/afc6fedba7cade92aae71e0795686beb/f058b/image-3.png&quot;
+        srcset=&quot;/static/afc6fedba7cade92aae71e0795686beb/c26ae/image-3.png 158w,
+/static/afc6fedba7cade92aae71e0795686beb/6bdcf/image-3.png 315w,
+/static/afc6fedba7cade92aae71e0795686beb/f058b/image-3.png 630w,
+/static/afc6fedba7cade92aae71e0795686beb/40601/image-3.png 945w,
+/static/afc6fedba7cade92aae71e0795686beb/78612/image-3.png 1260w,
+/static/afc6fedba7cade92aae71e0795686beb/a9577/image-3.png 1784w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;:nth-last-child&lt;/h2&gt;
+&lt;p&gt;: nth-last-child 의사 클래스는 :nth-child와 유사하지만 마지막 자식부터 거꾸로 계산합니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4d93246984c52b52b8d853df609ae8a0/668c6/image-6.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 86.70886075949367%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAABYlAAAWJQFJUiTwAAACwElEQVR42mVUy27UMBSdr2TDjgUSQhUbJP6AJf+BhBASUFVig8SCRwst0860nUkmbyfOy7HznMziIN9MMlOxOHJ8bd977vFxZkXWImElYoJCFtco5Raq6KCKcRy/D/Fpj+zoe8SsyFswRyDyCzBXgAdyWqxUj7rsUarhsJ5XZU+jFB3qckffDxKGXoGrHyY8K8N6wXD53YSxZJifW7i+sHHzx8H8fAPHSGCtOJaXLha/Hdxdebj6aRKJutpRQUqYxRWx0+BBQW3rTSNjWguG9dATSKISeVpDdzZIVD1gOdOVNaubC3uq/veXhfu5D2MRUsxaxRS7PrehNdcJtI5jIiU6kkCznMm8RRpVSKIKPFCIA4WM10h5hTxpaE1flB6PkYQlnRnP6r2UMGYS5m0I4zaEvY7hGDGYm1N7Wt/AySdJdHxs/bBHgDk5yaAZz1JeInAE6TG1MFmlm8T+H/0eo4WGc7NK7lAIBSlrKNmjIrvsCLXa0SGZdwPEfsxbFFlDGGLtQUNV9EgTAXbnIXUyBH4Cy/SxMTwC85MhqTiwTbjExvAReDHNaU0Mhp8RVdGhzDqU+bAoqHoLkWl7NFDicJMaOmHEcsShIPtI0R4SlpphmoMnEXgcgsd65GCRR8yP2dVdj7rZwg8iWLYP2wmgygZNt39NohsYFlmFcOmBLVykJodtepjPF1jdbZDGCrqoTvj1tYW3j67x8dkKpydrfH6+wrvHN/h0co/UrVGVRy2zcwfRIsD9xQqhncDaMLhWhEr2+3Y6fHtj4/2TJU5frPDllYmzlwY+PL3F2as1Uq8mlvuELZIVR2qlYOsQSSDguRwpV9OPQCdstj3afodcKtiujzBO0G53aPoHLXckvMwaqLwdIFrkaUWCj09LTZbpyMQ8FFRwjKmDbbbTDU0Y50d2IJPv56V+x9rUx3v2t/wPtSP5WXam5uwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4d93246984c52b52b8d853df609ae8a0/f058b/image-6.png&quot;
+        srcset=&quot;/static/4d93246984c52b52b8d853df609ae8a0/c26ae/image-6.png 158w,
+/static/4d93246984c52b52b8d853df609ae8a0/6bdcf/image-6.png 315w,
+/static/4d93246984c52b52b8d853df609ae8a0/f058b/image-6.png 630w,
+/static/4d93246984c52b52b8d853df609ae8a0/40601/image-6.png 945w,
+/static/4d93246984c52b52b8d853df609ae8a0/78612/image-6.png 1260w,
+/static/4d93246984c52b52b8d853df609ae8a0/668c6/image-6.png 1692w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;:only-child&lt;/h2&gt;
+&lt;p&gt;: only-child는 부모의 유일한 자식 요소인 경우 요소를 대상으로 합니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/43386ad0984356046074d8d75a085bb3/3e096/image-7.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAACXUlEQVR42m1SR24UQRTtG8MCFlwDJIQ4ByuEWBEsGBsDY8n2uN05VuoKHcfmoaqaGQbLi68f69UPL1DdBEEHcNI73fERjBhIMTqb1BqM9OC2pu3RsQGc9qCNdm/4LmdxtJwRSD6hSjvkEUdbasQbgvUqxu9VjPCyxo+vIS7OUlyvS1z9znH5K8PmosT5iY0nrtbmLLCRiwUcQWsDWhmQSjuxflMop1nTg1TG1zS+xmrn72JW89Z2OSMQbEAWMSQ3LaKrGnnMUKYCVSYOdpFwlCl3MetbySLqY3nnbAts1ILAotrZtVxcy9Y/iJig9/mjuPUHs3UALu9qfS6wy1TdCK2OgNVettBqcQeSYjosnlODcJOiLrnzbd7hiBmB7hZQytCWBJIM4MyAtBKMaJBGQrDe/34ESFuFImvR1p2LHQB9h7OjAgkJeNqhKjmisEAclbi9ydBUHPbT4w5tZ0lUoirYDmh6ACgMpB68yB5Gzxj7e0zDPXq9haXWocPOA2ZJ8zigH5mjiBPkYYwiSZBlBcqcIk9bN7o/hgUdIbkldQdScZBaON+PPP/rUPEJ5SpBeZqiXVfINhW+fzvH2Wrtxt5fXFo9AEJtkVUSLR9hRkDK+f+RJRvQXjcgt8TtkuYCYZi7kdyFuQfTTEH/PAH98gHZx3doP7+HOv0EXVMotbhPPaCYYCyvzBbaLDB6wWDu3P4sfRQfIdUd+qIEe/sC1csn4G+eg71+BvLqKczVBZT541biib2nxQORuzFch8Lbhhn0TKGnymumd/v1hwn2+zlc6th+RKSl0AM55uhfkUZqyJPC4TkAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/43386ad0984356046074d8d75a085bb3/f058b/image-7.png&quot;
+        srcset=&quot;/static/43386ad0984356046074d8d75a085bb3/c26ae/image-7.png 158w,
+/static/43386ad0984356046074d8d75a085bb3/6bdcf/image-7.png 315w,
+/static/43386ad0984356046074d8d75a085bb3/f058b/image-7.png 630w,
+/static/43386ad0984356046074d8d75a085bb3/40601/image-7.png 945w,
+/static/43386ad0984356046074d8d75a085bb3/78612/image-7.png 1260w,
+/static/43386ad0984356046074d8d75a085bb3/3e096/image-7.png 1718w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;:target&lt;/h2&gt;
+&lt;p&gt;:target 가상 클래스는 URL 조각과 일치하는 ID 속성이 있는 요소를 선택합니다.
+(예: &lt;a href=&quot;https://example.com/#fragment&quot;&gt;https://example.com/#fragment&lt;/a&gt;)
+:target은 직접 연결된 페이지 섹션의 스타일을 지정하는 데 자주 사용되며 일반적으로 인페이지 링크와 함께 사용됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d4f6adcaf0decc147a5cb18417e3fde0/a88f6/image-8.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.68354430379746%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAACQklEQVR42l2U63KbMBCF8/7v1c60aZzWicPEVwxBIEB3xM3JnI4WO8b+8c2upPXRXoQfrB4gqxZKBDoo4aHqlpCVh6yvaNFClA354dzIDs4MNzxY3YMdFXhmEW9KLH8fsPi5xS4qsHo64u05ITYrhm2U4+UxpnX0NwFLFBo3wt4Iqh6y9BDcU6aCN6h5A1W1tK6LBlXRkC2Znda5mwh7uaO4b8FQ1volw+LHDq9/jlgtUqyeEix/xVgvGfIPjSIzZPNUoZhZnhmwRKLm7ioY+hDKDTeFgDzVKFKDPNHgzH73Up37JsrJv/Qx+PNeUobUozdGt5a5BWeGCH64IMBDpufs8m9/Iog2drwORcuObgsTv5/aJdDpAY0Z4e2I1p0IR/Hjze9I0FHg6XzYzxhgVA8jepjOQ54smBFIRYXMCKgvB+1bWNnfTrmuJXjFUVYlTBAyEyE7EpUDGm/RtDkKkeKDx+Aihe8LuMbAqnmGZoAsNPIoBYtzHLcZ0gPHfvuBt9cNtu9HKNFjEAlG9gR3eIbeTPazWGCoU1gdquuvgiq3yB5jsEUCHmWo3hmJrV7WYGkFJXvs/Yh16/GvrvGqFJZCYN222DcjQpU3JRvZwqqOcNS7Dlq29BWE3mrZY+e/EPkRi1JhKR3ZqB2xaz7vBPXUqwthMJN/QmOnoUyX9qhLj92O4RhzHPY5re35fCbYoeIKVTFRzmxAS0+DCoLhz6HmFqJ0ZI1oaf9OcKCXfkHP/AA9Kz1Mb+38FqmKYM97c/4DygVtYKhZbCAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/d4f6adcaf0decc147a5cb18417e3fde0/f058b/image-8.png&quot;
+        srcset=&quot;/static/d4f6adcaf0decc147a5cb18417e3fde0/c26ae/image-8.png 158w,
+/static/d4f6adcaf0decc147a5cb18417e3fde0/6bdcf/image-8.png 315w,
+/static/d4f6adcaf0decc147a5cb18417e3fde0/f058b/image-8.png 630w,
+/static/d4f6adcaf0decc147a5cb18417e3fde0/40601/image-8.png 945w,
+/static/d4f6adcaf0decc147a5cb18417e3fde0/78612/image-8.png 1260w,
+/static/d4f6adcaf0decc147a5cb18417e3fde0/a88f6/image-8.png 1900w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;::first-letter&lt;/h2&gt;
+&lt;p&gt;:: first-letter 가상 요소는 블록 수준 요소의 첫 번째 문자 스타일을 지정.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/04db33d03fe3defd5000c9fdd5893d0c/27f8b/image-9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.65822784810127%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB7UlEQVR42o1T2ZKbMBD0/39YXpLd9Y25bMQlkACBABvjreqUBuMtynnIQ1drNKOWegZWlexR5B2hLq/Q9fCfuBPaZomV5C14VCNhCo0acLt+o29H9N0Dt/6b+No/XkygtcmN74LHrxCexRGeC+w/Ahy/GJgncXFyWOsQgeFNhNCXxPY2hrNPCMyX74KhX4C5EimrcHEELrZAEkxr38oo51s50lAhcCXFzCsQ+iV4WKOpBtTlAFXcJsFSdOCRQhyUkFyjyFoIw3mLUvS0J81eqiHShmD6nZuYaySsAo9r6isJGrv2Loazi3HaRGTFPaZwDyl8i+Ns53RJIbpJ+HmZWFze/Viuqxu0mibWmMmpO9p6pAFNuWHRo04/JrQT9/qBtpnqSdAESrXIUo40iZFlKcI4QCk1FRsrJGy4vELm+oWSXq2hiv75GQ1Yzd+SPEtkpxTixBH5KTyXoa6ulKOXm8O/9rCtM44HD6eDD+d0wWHnQmYNumacBQd0eoSwc/BtDHftgbkJ0qRAVbSTnWog64rX2G8dfP7Z4eP3Fpu1hfXnATJfCN6hmwFlpFDFNXLRwHUYSqHRt5NlI0g90iNK2eLiJ/TSkGVUY3Lzn7MyQzA9em0+meJ5Xf3wO6az8/nVrLzEsIhNH/9dd3+r+wvWm9QAnXYZngAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/04db33d03fe3defd5000c9fdd5893d0c/f058b/image-9.png&quot;
+        srcset=&quot;/static/04db33d03fe3defd5000c9fdd5893d0c/c26ae/image-9.png 158w,
+/static/04db33d03fe3defd5000c9fdd5893d0c/6bdcf/image-9.png 315w,
+/static/04db33d03fe3defd5000c9fdd5893d0c/f058b/image-9.png 630w,
+/static/04db33d03fe3defd5000c9fdd5893d0c/40601/image-9.png 945w,
+/static/04db33d03fe3defd5000c9fdd5893d0c/78612/image-9.png 1260w,
+/static/04db33d03fe3defd5000c9fdd5893d0c/27f8b/image-9.png 1730w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;::first-line&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/aa419bd7cb44b57462861c3c798519c0/966c1/image-10.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.12658227848101%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAB8klEQVR42m1Ta2+jMBDk//+xa1WleUASSIAASXjZBoOBkPSkOe0Cvat0H0bjtZfZ8a6xTPOE0U+0zQStBo6bemTuzQuU07Uv9OZrXi94fcec3zxh0SJNNK6hhMwN3N0Nm18+/EOG/SrGfh3D3V1hf1yw/4yxfQ/hH1Ic1jE2bwGcVcQI3HwSbOsRlRigygFajQxZdNDqgaocUGYGIjWQeQeRTayKnnOm9cS1HNilVYke0blE6BXsKvYFkkAgOpVIQomEY4n4XDKuoULsl3OeRHQWfLvbRaHVIyyRG3j2HcExw3GT4OTcWTgJBa4XyR+ymF9yYSpGQlSMzpc8OiNzVq0G5LcGZWpQ3CemIssQFqbh/MXXf/Zecw9ponpA0/QMrTu0zTThpnpwXxbWxNX4DU1QDwbFNA8WVLJGeomRXq5Iwwh5qlBkFR7db3ZCiW39hBAG+2PIWO88HN0IO+cM14vZHfeQ3181It/ekbsFDm9HeHaAj/cN/FMCJQw7JEElOhz2PuytC8c+Mds7F2Fwm96ynh1q1UOGEupaIztlUHGFJMpx9mJmeuztfGXfS7D53OPg+FivHHjHEEVWsxhpWbQgB4aa2r7Q0d/QTk0fflx56iuJVrJHLfuZBxZacqzl7stG8w8vmKqP3y4WmJmXHJryHyBBg8+gDuvIAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/aa419bd7cb44b57462861c3c798519c0/f058b/image-10.png&quot;
+        srcset=&quot;/static/aa419bd7cb44b57462861c3c798519c0/c26ae/image-10.png 158w,
+/static/aa419bd7cb44b57462861c3c798519c0/6bdcf/image-10.png 315w,
+/static/aa419bd7cb44b57462861c3c798519c0/f058b/image-10.png 630w,
+/static/aa419bd7cb44b57462861c3c798519c0/40601/image-10.png 945w,
+/static/aa419bd7cb44b57462861c3c798519c0/78612/image-10.png 1260w,
+/static/aa419bd7cb44b57462861c3c798519c0/966c1/image-10.png 1694w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;::marker&lt;/h2&gt;
+&lt;p&gt;:: marker 가상 요소는 일반적으로 글머리 기호(정렬되지 않은 목록의 경우) 또는 숫자/문자(정렬된 목록의 경우)를 포함하는 목록 항목의 마커 상자 스타일을 지정하는 데 사용됩니다.&lt;/p&gt;
+&lt;p&gt;::marker를 도입하기 전에 이러한 마커를 사용자 지정하려면 종종 해결 방법이 필요했지만 이 의사 요소는 우리에게 좀 더 많은 제어 기능을 제공합니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bb38a6eca5a6bd8a6ff098bfb935310c/a2498/image-11.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.21518987341771%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAACLklEQVR42pVU2XLbMAz0//9Xp9M209ZxWltjR7d1kOIpS7Ycz2wHEBUnbV76sDZEkIsFQHDV2wldc4Kse3hzQe8mhrfTq/0/WDl9RpUbVJmGMxeGtxdQIP4n8rBO9uL3boLV538J68Li6SHB87bB5luCH58PeHpIsX+qsP4SY/OQYvM1xvZnge26xPdPs5/2Hn7XTMoBQvAVRdRygJEjtBigxQgjB3TtCUoMUO0ATT5GsHlfgBz5rNOBkDale4HdY4k4apAdJOKoRXoQKOKOfQRaI1/+LJFELY6pBmVXJgqi9jj560xoupGdZapwzGiTYbtMNarMcH2P5EsV6tLyHiKRzdxEq86warynTKlle8EkeVBAh4pYIXqskR06Vpo/d0y0gDIgIRww01wOUskKiYy6PCtTqHI9K2FlmtWSTSnSOvmrTMEEZe+aQj/EPPQvGE83jP2N7eV7rk2AnTB48t3Q9y/cCIInhGu1ogtMnZZSoa4K1E0D2Tro7oROeI5s+eAZ2lxQHjukuwQ2qeH7GxN5M70hJKO/ossV6m2BMq6w/XXAZr1DGldw5jxfeH2Bthc0DdWshRMWfejsTPqW0F+hSwcZCbSbCiJTiHYJqxz662tq1k0oC4l9lEILiZOfPiAMI+bUANeNsGKAUyOMGmD1OI9bqBMprCqNeJ+jSxv09soz/z7lQLjMJ2OZ4bC+zK9bih/qTnUleHN+32WGnV+Yv7H47q/Q/Yp89Nr8Ach7bRaQfHxXAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bb38a6eca5a6bd8a6ff098bfb935310c/f058b/image-11.png&quot;
+        srcset=&quot;/static/bb38a6eca5a6bd8a6ff098bfb935310c/c26ae/image-11.png 158w,
+/static/bb38a6eca5a6bd8a6ff098bfb935310c/6bdcf/image-11.png 315w,
+/static/bb38a6eca5a6bd8a6ff098bfb935310c/f058b/image-11.png 630w,
+/static/bb38a6eca5a6bd8a6ff098bfb935310c/40601/image-11.png 945w,
+/static/bb38a6eca5a6bd8a6ff098bfb935310c/78612/image-11.png 1260w,
+/static/bb38a6eca5a6bd8a6ff098bfb935310c/a2498/image-11.png 1764w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;more&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;:where() : 선택자의 특이성에 영향을 주지 않고 조건에 따라 요소를 선택할 수 있습니다.&lt;/li&gt;
+&lt;li&gt;:default : 기본 선택 상태로 설정된 UI 요소(라디오 버튼 또는 체크박스 등)와 일치합니다.&lt;/li&gt;
+&lt;li&gt;:empty : 자식이 없는 요소를 선택합니다(텍스트 노드 포함).&lt;/li&gt;
+&lt;li&gt;:fullscreen : 현재 전체 화면 모드로 표시되는 요소를 대상으로 합니다.&lt;/li&gt;
+&lt;li&gt;:in-range : 지정된 범위 내에 있는 값과 양식 요소를 일치시킵니다( min 및 max 와 같은 속성 사용 ).&lt;/li&gt;
+&lt;li&gt;:out-of-range : 지정된 범위를 벗어난 값을 가진 양식 요소를 찾습니다.&lt;/li&gt;
+&lt;li&gt;:indeterminate : 선택 되거나 선택되지 않은 확인란과 같이 상태가 불확실한 양식 요소를 대상으로 합니다(종종 트리 뷰 구조에서 볼 수 있음).&lt;/li&gt;
+&lt;li&gt;:lang() : 언어 속성을 기반으로 요소를 찾습니다. 예: :lang(en)은 영어로 정의된 요소를 선택합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;:, :: 차이점&lt;/h2&gt;
+&lt;p&gt;:: CSS3 문법으로 가상클래스와 가상요소를 구분하기 위해서 나왔습니다.
+: CSS2, :: CSS3
+가상클래스 예&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;:hover, :active, :checked, ...&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;가상요소&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;::after, ::before, ::placeholder, ..&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;호환성을 위해 :after, :before도 가능합니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby 코드블럭 꾸미기]]></title><description><![CDATA[gatsby  plugin을 이용해서 코드블럭을 이쁘게 바꿔보자. gatsby-remark-highlight-code사용했습니다.
+gatsby plugin 사이트에서 다른 syntax highlight…]]></description><link>https://coconu6956.github.io/Gatsby-syntax-highlight/</link><guid isPermaLink="false">https://coconu6956.github.io/Gatsby-syntax-highlight/</guid><pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;gatsby  plugin을 이용해서 코드블럭을 이쁘게 바꿔보자.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.gatsbyjs.com/plugins/gatsby-remark-highlight-code/&quot;&gt;gatsby-remark-highlight-code&lt;/a&gt;사용했습니다.
 gatsby plugin 사이트에서 다른 syntax highlight 플러그인 검색해 볼 수 있습니다!&lt;/p&gt;
 &lt;h2&gt;설치하기&lt;/h2&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;84027717559810560000&quot;
+              data-toaster-id=&quot;88349451035859270000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm install --save gatsby-transformer-remark gatsby-remark-highlight-code @deckdeckgo/highlight-code`, `84027717559810560000`)&quot;
+              onClick=&quot;copyToClipboard(`npm install --save gatsby-transformer-remark gatsby-remark-highlight-code @deckdeckgo/highlight-code`, `88349451035859270000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -26,7 +438,7 @@ gatsby plugin 사이트에서 다른 syntax highlight 플러그인 검색해 볼
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;gatsby-config.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;98584201121117000000&quot;
+              data-toaster-id=&quot;13449888936804700000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -43,7 +455,7 @@ plugins: [
       ],
     },
   },
-];`, `98584201121117000000`)&quot;
+];`, `13449888936804700000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -71,13 +483,13 @@ plugins: [
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;index.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;98843942138418480000&quot;
+              data-toaster-id=&quot;47027858726229630000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
               onClick=&quot;copyToClipboard(`import { defineCustomElements as deckDeckGoHighlightElement } from &amp;quot;@deckdeckgo/highlight-code/dist/loader&amp;quot;;
-deckDeckGoHighlightElement();`, `98843942138418480000`)&quot;
+deckDeckGoHighlightElement();`, `47027858726229630000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -126,7 +538,7 @@ deckDeckGoHighlightElement();&lt;/code&gt;
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;gatsby-config.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;41745417365063746000&quot;
+              data-toaster-id=&quot;1928012021572711400&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -146,7 +558,7 @@ plugins: [
       ],
     },
   },
-];`, `41745417365063746000`)&quot;
+];`, `1928012021572711400`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -178,12 +590,12 @@ plugins: [
 &lt;h3&gt;설치하기&lt;/h3&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;89124005473444180000&quot;
+              data-toaster-id=&quot;89186854327799890000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm install gatsby-remark-code-buttons --save-dev`, `89124005473444180000`)&quot;
+              onClick=&quot;copyToClipboard(`npm install gatsby-remark-code-buttons --save-dev`, `89186854327799890000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -199,7 +611,7 @@ plugins: [
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;gatsby-config.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;43140767539253980000&quot;
+              data-toaster-id=&quot;87898969731030200000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -211,7 +623,7 @@ plugins: [
       plugins: [&apos;gatsby-remark-code-buttons&apos;]
     }
   }
-]`, `43140767539253980000`)&quot;
+]`, `87898969731030200000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -265,7 +677,7 @@ plugins: [
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;gatsby-config.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;46592771873061100000&quot;
+              data-toaster-id=&quot;92910539012129650000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -283,7 +695,7 @@ plugins: [
               // Optional toaster duration. Defaults to 3500.
               toasterDuration: 5000
             }
-          },`, `46592771873061100000`)&quot;
+          },`, `92910539012129650000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -314,7 +726,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;style.css&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;82748398691594470000&quot;
+              data-toaster-id=&quot;46565800714958130000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -334,7 +746,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
   color: #222;
   font-weight: 600;
   box-shadow: rgba(79, 255, 4, 0.45) 0 4px 15px;
-}`, `82748398691594470000`)&quot;
+}`, `46565800714958130000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -366,12 +778,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;h3&gt;설치하기&lt;/h3&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;36980294912383640000&quot;
+              data-toaster-id=&quot;37314746035985810000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm install gatsby-remark-code-titles --save-dev`, `36980294912383640000`)&quot;
+              onClick=&quot;copyToClipboard(`npm install gatsby-remark-code-titles --save-dev`, `37314746035985810000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -387,7 +799,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;gatsby-config.js&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;87347797438744410000&quot;
+              data-toaster-id=&quot;94975887032474660000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -406,7 +818,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
       ]
     }
   }
-]`, `87347797438744410000`)&quot;
+]`, `94975887032474660000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -436,7 +848,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;div class=&quot;gatsby-code-title gatsby-remark-code-title&quot;&gt;style.css&lt;/div&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;4926759641178702000&quot;
+              data-toaster-id=&quot;796087769433762000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -455,7 +867,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
   text-align: center;
   border-radius: 10rem;
   transform: translate(-50%, 1.6rem);
-}`, `4926759641178702000`)&quot;
+}`, `796087769433762000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -480,7 +892,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
   border-radius: 10rem;
   transform: translate(-50%, 1.6rem);
 }&lt;/code&gt;
-        &lt;/deckgo-highlight-code&gt;</content:encoded></item><item><title><![CDATA[Gatsby 블로그 파비콘 변경하기]]></title><description><![CDATA[이제 블로그를 만들었는데 기본 파비콘이 맘에 들지 않습니다. gatsby.config.js 변경하기  icon부분을 수정해주면 됩니다.  저는 static 폴더 안에 favicon.png…]]></description><link>https://coconu6956.github.io/Gatsby 블로그 파비콘 변경하기/</link><guid isPermaLink="false">https://coconu6956.github.io/Gatsby 블로그 파비콘 변경하기/</guid><pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+        &lt;/deckgo-highlight-code&gt;</content:encoded></item><item><title><![CDATA[Gatsby 블로그 파비콘 변경하기]]></title><description><![CDATA[이제 블로그를 만들었는데 기본 파비콘이 맘에 들지 않습니다. gatsby.config.js 변경하기  icon부분을 수정해주면 됩니다.  저는 static 폴더 안에 favicon.png…]]></description><link>https://coconu6956.github.io/change-Gatsby-favicon/</link><guid isPermaLink="false">https://coconu6956.github.io/change-Gatsby-favicon/</guid><pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 196px; &quot;
     &gt;
@@ -577,12 +989,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 하지만 수정을 해도 아직 변경이 안되었습니다!&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;88183238485203470000&quot;
+              data-toaster-id=&quot;87652069277184280000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm run build`, `88183238485203470000`)&quot;
+              onClick=&quot;copyToClipboard(`npm run build`, `87652069277184280000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -596,19 +1008,19 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
         &lt;/deckgo-highlight-code&gt;
 &lt;p&gt;public/icon 폴더를 보면 파일이 변경되었습니다!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby 블로그 만들기]]></title><description><![CDATA[드디어 첫 블로그를 생성하게 되었습니다!
 작업하거나 배운 것들을 기록해야겠다는 필요성을 자꾸 느끼게 되었습니다.
-나만의 블로그를 만들어보자는 생각에 Gatsby로 이용해서 만들게 되었습니다! Gatsby 설치 Gatsby를 사용하기 위해 Gatsby…]]></description><link>https://coconu6956.github.io/Gatsby 블로그 만들기/</link><guid isPermaLink="false">https://coconu6956.github.io/Gatsby 블로그 만들기/</guid><pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;드디어 첫 블로그를 생성하게 되었습니다!
+나만의 블로그를 만들어보자는 생각에 Gatsby로 이용해서 만들게 되었습니다! Gatsby 설치 Gatsby를 사용하기 위해 Gatsby…]]></description><link>https://coconu6956.github.io/create-Gatsby-blog/</link><guid isPermaLink="false">https://coconu6956.github.io/create-Gatsby-blog/</guid><pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;드디어 첫 블로그를 생성하게 되었습니다!
 작업하거나 배운 것들을 기록해야겠다는 필요성을 자꾸 느끼게 되었습니다.
 나만의 블로그를 만들어보자는 생각에 Gatsby로 이용해서 만들게 되었습니다!&lt;/p&gt;
 &lt;h2&gt;Gatsby 설치&lt;/h2&gt;
 &lt;p&gt;Gatsby를 사용하기 위해 Gatsby CLI 설치합니다.&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;87768507634706190000&quot;
+              data-toaster-id=&quot;51484331178347900000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm install -g gatsby-cli`, `87768507634706190000`)&quot;
+              onClick=&quot;copyToClipboard(`npm install -g gatsby-cli`, `51484331178347900000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -623,12 +1035,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;p&gt;gatsby 버전을 확인합니다.&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;90622853065482190000&quot;
+              data-toaster-id=&quot;87801816515552150000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`gatsby --version`, `90622853065482190000`)&quot;
+              onClick=&quot;copyToClipboard(`gatsby --version`, `87801816515552150000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -647,12 +1059,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;a href=&quot;https://www.gatsbyjs.com/starters/&quot;&gt;스타터테마모음&lt;/a&gt;&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;80575964278102540000&quot;
+              data-toaster-id=&quot;2426509803447918000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`gatsby new &amp;quot;프로젝트명&amp;quot; &amp;quot;스타터 테마 주소&amp;quot;`, `80575964278102540000`)&quot;
+              onClick=&quot;copyToClipboard(`gatsby new &amp;quot;프로젝트명&amp;quot; &amp;quot;스타터 테마 주소&amp;quot;`, `2426509803447918000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -666,12 +1078,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
         &lt;/deckgo-highlight-code&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;13997459897223496000&quot;
+              data-toaster-id=&quot;46636886222484690000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`gatsby new gatsby-starter-blog https://github.com/gatsbyjs/gatsby-starter-blog`, `13997459897223496000`)&quot;
+              onClick=&quot;copyToClipboard(`gatsby new gatsby-starter-blog https://github.com/gatsbyjs/gatsby-starter-blog`, `46636886222484690000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -685,12 +1097,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
         &lt;/deckgo-highlight-code&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;1138543313108608600&quot;
+              data-toaster-id=&quot;41151298212410420000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`cd gatsby-starter-blog`, `1138543313108608600`)&quot;
+              onClick=&quot;copyToClipboard(`cd gatsby-starter-blog`, `41151298212410420000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -704,12 +1116,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
         &lt;/deckgo-highlight-code&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;31097536470636220000&quot;
+              data-toaster-id=&quot;87645172997910890000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`yarn develop or gatsby develop`, `31097536470636220000`)&quot;
+              onClick=&quot;copyToClipboard(`yarn develop or gatsby develop`, `87645172997910890000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -759,12 +1171,12 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;h3&gt;gh-pages 설치&lt;/h3&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;21355896995710100000&quot;
+              data-toaster-id=&quot;67985321909748970000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm install gh-pages --save-dev`, `21355896995710100000`)&quot;
+              onClick=&quot;copyToClipboard(`npm install gh-pages --save-dev`, `67985321909748970000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -809,7 +1221,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
     &lt;/span&gt;&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;8941131077208109000&quot;
+              data-toaster-id=&quot;79866856435606110000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -819,7 +1231,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
   &amp;quot;scripts&amp;quot;: {
     &amp;quot;deploy&amp;quot;: &amp;quot;gatsby build &amp;&amp; gh-pages -d public -b main&amp;quot;,
   }  
-}`, `8941131077208109000`)&quot;
+}`, `79866856435606110000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -842,7 +1254,7 @@ COPY 라는  &lt;strong&gt;buttonText&lt;/strong&gt; 속성을 통해 설정했�
 &lt;strong&gt;Create repository&lt;/strong&gt;를 클릭합니다.&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;95626330751591860000&quot;
+              data-toaster-id=&quot;40910745168391090000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -852,7 +1264,7 @@ git branch -M main
 git add .
 git commit -m &amp;quot;first commit&amp;quot;
 git remote add origin https://github.com/[아이디]/[아이디].github.io.git
-git push -u origin main`, `95626330751591860000`)&quot;
+git push -u origin main`, `40910745168391090000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -873,12 +1285,12 @@ git push -u origin main&lt;/code&gt;
 &lt;h3&gt;배포하기&lt;/h3&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;44673610615936200000&quot;
+              data-toaster-id=&quot;20536226795958813000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
               data-toaster-duration=&quot;5000&quot;
-              onClick=&quot;copyToClipboard(`npm run deploy`, `44673610615936200000`)&quot;
+              onClick=&quot;copyToClipboard(`npm run deploy`, `20536226795958813000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
@@ -896,7 +1308,7 @@ git push -u origin main&lt;/code&gt;
 dev라는 브랜치를 만들어서 소스파일을 올려줍니다!&lt;/p&gt;
 &lt;div
               class=&quot;gatsby-code-button-container&quot;
-              data-toaster-id=&quot;70731713786175730000&quot;
+              data-toaster-id=&quot;66474997532526990000&quot;
               data-toaster-class=&quot;gatsby-code-button-toaster&quot;
               data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
               data-toaster-text=&quot;복사되었습니다 👏&quot;
@@ -904,7 +1316,7 @@ dev라는 브랜치를 만들어서 소스파일을 올려줍니다!&lt;/p&gt;
               onClick=&quot;copyToClipboard(`git branch dev // dev 브랜치 생성
 git checkout dev
 ...
-git push -u origin dev`, `70731713786175730000`)&quot;
+git push -u origin dev`, `66474997532526990000`)&quot;
             &gt;
               &lt;div
                 class=&quot;gatsby-code-button&quot;
