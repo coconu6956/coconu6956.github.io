@@ -130,6 +130,18 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-google-gtag`,
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          "G-CSGJT3B3FT", // Google Analytics / GA
+        ],
+        pluginConfig: {
+          head: true,
+        }
+      }
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
