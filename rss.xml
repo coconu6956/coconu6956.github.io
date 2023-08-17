@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[행복하세요 ☘️]]></description><link>https://coconu6956.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 17 Aug 2023 10:51:12 GMT</lastBuildDate><item><title><![CDATA[CSS 셀렉터 비주얼 가이드]]></title><description><![CDATA[https://fffuel.co/css-selectors/ 오오!!! CSS…]]></description><link>https://coconu6956.github.io/CSS-Selectors-VisualGuide/</link><guid isPermaLink="false">https://coconu6956.github.io/CSS-Selectors-VisualGuide/</guid><pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[행복하세요 ☘️]]></description><link>https://coconu6956.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 17 Aug 2023 11:03:09 GMT</lastBuildDate><item><title><![CDATA[CSS 셀렉터 비주얼 가이드]]></title><description><![CDATA[https://fffuel.co/css-selectors/ 오오!!! CSS…]]></description><link>https://coconu6956.github.io/CSS-Selectors-VisualGuide/</link><guid isPermaLink="false">https://coconu6956.github.io/CSS-Selectors-VisualGuide/</guid><pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -410,7 +410,113 @@
 &lt;blockquote&gt;
 &lt;p&gt;::after, ::before, ::placeholder, ..&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;호환성을 위해 :after, :before도 가능합니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby 코드블럭 꾸미기]]></title><description><![CDATA[gatsby  plugin을 이용해서 코드블럭을 이쁘게 바꿔보자. gatsby-remark-highlight-code사용했습니다.
+&lt;p&gt;호환성을 위해 :after, :before도 가능합니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby 이미지 404!!]]></title><description><![CDATA[이미지가 안나타난다 🤯 구글링 후 https://github.com/gatsbyjs/gatsby/issues/20700 후  잘나온다 🥳]]></description><link>https://coconu6956.github.io/Gatsby-images-404/</link><guid isPermaLink="false">https://coconu6956.github.io/Gatsby-images-404/</guid><pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2594c42421c547d542afdce140aaf493/c6d67/image.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.72151898734178%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLklEQVR42uWU3UoCQRzF9y12wg9co9KxdY1aWde0D/CqlXq0LoNeJS9WlNwgKiepfAUh1Kjd2J09sWPiVehCXfWHHwcOM4fDMDOSun2MktYApUfQig1kMgYSiV0kk3uxSKV0gbSxWUOeHmIrV0cuf4DsugklW0E2Jul0eRZ4fnGJ3vAGrXsb3b4Dm3Vhsw5u2QMe2QsYe/6Rfv8Jg8EQjnMHXT8BISVI7baDaDjniDthGAqdTt9QrZ5BljVItn0tTN/3RSjn4Td8KUEQiL3j8WQR+OsN/2VgT5jRAUcL4jAvMZlM/7Bh66ojzI93F577ucBbjut64rqNRq8wzdNZ4I7eQKXehFGzYOxbCzWaK1MuW1AUQ7xpaY2qIBoFUQsgtABSpEJlUoIsr878g/gCNx9RZHd3GosAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/2594c42421c547d542afdce140aaf493/f058b/image.png&quot;
+        srcset=&quot;/static/2594c42421c547d542afdce140aaf493/c26ae/image.png 158w,
+/static/2594c42421c547d542afdce140aaf493/6bdcf/image.png 315w,
+/static/2594c42421c547d542afdce140aaf493/f058b/image.png 630w,
+/static/2594c42421c547d542afdce140aaf493/c6d67/image.png 734w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;이미지가 안나타난다 🤯&lt;/p&gt;
+&lt;p&gt;구글링 후&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/gatsbyjs/gatsby/issues/20700&quot;&gt;https://github.com/gatsbyjs/gatsby/issues/20700&lt;/a&gt;&lt;/p&gt;
+&lt;div
+              class=&quot;gatsby-code-button-container&quot;
+              data-toaster-id=&quot;33742520212194240000&quot;
+              data-toaster-class=&quot;gatsby-code-button-toaster&quot;
+              data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
+              data-toaster-text=&quot;복사되었습니다 👏&quot;
+              data-toaster-duration=&quot;5000&quot;
+              onClick=&quot;copyToClipboard(`gatsby clean`, `33742520212194240000`)&quot;
+            &gt;
+              &lt;div
+                class=&quot;gatsby-code-button&quot;
+                data-tooltip=&quot;&quot;
+              &gt;
+                COPY 
+              &lt;/div&gt;
+            &lt;/div&gt;
+&lt;deckgo-highlight-code language=&quot;shell&quot; line-numbers=&quot;true&quot;  &gt;
+          &lt;code slot=&quot;code&quot;&gt;gatsby clean&lt;/code&gt;
+        &lt;/deckgo-highlight-code&gt;
+&lt;div
+              class=&quot;gatsby-code-button-container&quot;
+              data-toaster-id=&quot;69824951725280160000&quot;
+              data-toaster-class=&quot;gatsby-code-button-toaster&quot;
+              data-toaster-text-class=&quot;gatsby-code-button-toaster-text&quot;
+              data-toaster-text=&quot;복사되었습니다 👏&quot;
+              data-toaster-duration=&quot;5000&quot;
+              onClick=&quot;copyToClipboard(`yarn deploy \$or npm run deploy`, `69824951725280160000`)&quot;
+            &gt;
+              &lt;div
+                class=&quot;gatsby-code-button&quot;
+                data-tooltip=&quot;&quot;
+              &gt;
+                COPY 
+              &lt;/div&gt;
+            &lt;/div&gt;
+&lt;deckgo-highlight-code language=&quot;shell&quot; line-numbers=&quot;true&quot;  &gt;
+          &lt;code slot=&quot;code&quot;&gt;yarn deploy $or npm run deploy&lt;/code&gt;
+        &lt;/deckgo-highlight-code&gt;
+&lt;p&gt;후&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bc125bb30898734e8697d6110e740609/1134b/image-1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 63.92405063291139%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAACwElEQVR42nWTW08TWxiG+w+kaox2iqhQbUUtFiEeinLjkcSoITvozd7G36AERY23JkT9BV5p1EQvvFODRtEQjUItjbSFHqCU6fQw7fQwM1DhMTOjRt1y8eSdb03Ws758K8vmdHawefNetm7bT2NTO5u2dLJ+fRtr1uxg7dqdJsa3RevPtT9Zt24XjY0d2DY4dnOg8zQX/rnK+d5B/u3tp+foOU4c6aPn6Fl6jp3jzMnz9J66wJmT/3H8cN//OHG4j27/aZqaOrHZV3sY7L/F5IjCyOMZwu9lapVFsqJCTlSQczWKeQOVglSlVFApl3TKRc3MUlFDqyzxYTSEy+XH1mD3cPXKLUIjeZ7fCxMZy6GqX5mZzhEJzjEVmic2KRL+nGL6i0ghWzMPrJQtlJJOfQE+B6KWcFWDmxvX7xD9qPDsXphUVEGt1kklCiQiEsmprCmPhzNmnYrnmUsUKMlWp0YuaDD+KWwJ7au3M3BxiLEXEsMPowRHRLMDY1MyagmT0SzppEx6RmYuWUBMFVGKOhVlAaWosahDYDzyQ+jhcv8QE6/zDD+aIjQqUavWmY3lmJnKmuJUvGAJk7JZZ+ZKlP8Ujn0XNjR4uDZ4m8nRIi/uR4gFZdRanbxUJZ+pUMhWyWUq5MSyWeelCoqsmbIVOxy4NETgZZbhBxFCoxmqxrCLujkjY0NWLCOlrRs3b/gXVpxh8GWeN08STLyVWNSX0dUlFrRldG3ZTAOttmSiG6gWaqUOSxCaiOFydWGz27cz0H+T4Nt5nt4dJxyYZzYmMT2ZJhSIm0yMG5kgPj1PMp75DWNNTMu8evbO6tDp3EOzex+tHd14fIdo9Rl5EHdbl3miq7mLlmY/LS1+3O5uPJ6/s7XFbz29RmcHzm0+HG27EHxeHDu8CG1eBK8XYaMPQdiD4GxHENpxOHwrYvw3hN8Ab7Dhw8xYqx0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bc125bb30898734e8697d6110e740609/f058b/image-1.png&quot;
+        srcset=&quot;/static/bc125bb30898734e8697d6110e740609/c26ae/image-1.png 158w,
+/static/bc125bb30898734e8697d6110e740609/6bdcf/image-1.png 315w,
+/static/bc125bb30898734e8697d6110e740609/f058b/image-1.png 630w,
+/static/bc125bb30898734e8697d6110e740609/40601/image-1.png 945w,
+/static/bc125bb30898734e8697d6110e740609/78612/image-1.png 1260w,
+/static/bc125bb30898734e8697d6110e740609/1134b/image-1.png 1470w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;잘나온다 🥳&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby 코드블럭 꾸미기]]></title><description><![CDATA[gatsby  plugin을 이용해서 코드블럭을 이쁘게 바꿔보자. gatsby-remark-highlight-code사용했습니다.
 gatsby plugin 사이트에서 다른 syntax highlight…]]></description><link>https://coconu6956.github.io/Gatsby-syntax-highlight/</link><guid isPermaLink="false">https://coconu6956.github.io/Gatsby-syntax-highlight/</guid><pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;gatsby  plugin을 이용해서 코드블럭을 이쁘게 바꿔보자.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.gatsbyjs.com/plugins/gatsby-remark-highlight-code/&quot;&gt;gatsby-remark-highlight-code&lt;/a&gt;사용했습니다.
 gatsby plugin 사이트에서 다른 syntax highlight 플러그인 검색해 볼 수 있습니다!&lt;/p&gt;
