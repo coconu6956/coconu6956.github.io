@@ -352,6 +352,35 @@ a:focus {
   transform: translate(-50%, 1.6rem);
 }
 
+.blog-post .tags ul {
+  list-style: none;
+}
+
+.blog-post .tags ul li {
+  display: inline-block;
+  margin-right: 1rem;
+  text-align: center;
+}
+
+.blog-post .tags ul li a {
+  display: block;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  color: val(--color-primary);
+  font-size: 1rem;
+  font-weight: 500;
+  border: 1px solid #16FF00;
+  border-radius: 2rem;
+  background: rgba(79, 255, 4, 0.15);
+  cursor: pointer;
+  transition: all ease .3s;
+}
+
+.blog-post .tags ul li a:hover {
+  background: #16FF00;
+  color: var(--color-background);
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {

@@ -2,6 +2,8 @@
 title: CSS 셀렉터 비주얼 가이드
 date: "2023-08-17"
 description: ": ? ::"
+tags: 
+  - CSS
 ---
 
 ![CSS Selectors: A Visual Guide](./image.png)

@@ -2,6 +2,8 @@
 title: Gatsby 블로그 파비콘 변경하기
 date: "2023-08-15"
 description: "파비콘 변경해보자."
+tags: 
+  - Gatsby
 ---
 
 ![파비콘이미지](./image.png)

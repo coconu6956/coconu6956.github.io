@@ -2,6 +2,8 @@
 title: Gatsby 이미지 404!!
 date: "2023-08-17"
 description: "이미지가 안나타난다 🤯"
+tags: 
+  - Gatsby
 ---
 ![Alt text](./image.png)
 

@@ -2,6 +2,8 @@
 title: Gatsby 코드블럭 꾸미기
 date: "2023-08-15"
 description: "코드블럭 이쁘게 바꿔보자"
+tags: 
+  - Gatsby
 ---
 
 gatsby  plugin을 이용해서 코드블럭을 이쁘게 바꿔보자.
